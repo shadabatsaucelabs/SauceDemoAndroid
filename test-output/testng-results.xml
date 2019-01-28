@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="94127" started-at="2019-01-28T04:59:27Z" finished-at="2019-01-28T05:01:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="94127" started-at="2019-01-28T04:59:27Z" finished-at="2019-01-28T05:01:01Z">
+      <class name="com.swaglabs.Tests.LoginInvalidUser">
+        <test-method status="PASS" signature="LogininvalidUserTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.swaglabs.Tests.LoginInvalidUser@4fe3c938]" name="LogininvalidUserTest" duration-ms="88715" started-at="2019-01-27T20:59:27Z" data-provider="hardCodedBrowsers" finished-at="2019-01-27T21:00:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestObject]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Samsung_Galaxy_S5_real]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.8.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[public void com.swaglabs.Tests.LoginInvalidUser.LogininvalidUserTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogininvalidUserTest -->
+        <test-method status="PASS" signature="LogininvalidUserTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.swaglabs.Tests.LoginInvalidUser@4fe3c938]" name="LogininvalidUserTest" duration-ms="56530" started-at="2019-01-27T20:59:27Z" data-provider="hardCodedBrowsers" finished-at="2019-01-27T21:00:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Samsung Galaxy S9 WQHD GoogleAPI Emulator]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.8.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[portrait]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[public void com.swaglabs.Tests.LoginInvalidUser.LogininvalidUserTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogininvalidUserTest -->
+        <test-method status="PASS" signature="LogininvalidUserTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.swaglabs.Tests.LoginInvalidUser@4fe3c938]" name="LogininvalidUserTest" duration-ms="44056" started-at="2019-01-27T20:59:27Z" data-provider="hardCodedBrowsers" finished-at="2019-01-27T21:00:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android Emulator]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.8.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[portrait]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[public void com.swaglabs.Tests.LoginInvalidUser.LogininvalidUserTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogininvalidUserTest -->
+        <test-method status="PASS" signature="LogininvalidUserTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.swaglabs.Tests.LoginInvalidUser@4fe3c938]" name="LogininvalidUserTest" duration-ms="68025" started-at="2019-01-27T20:59:27Z" data-provider="hardCodedBrowsers" finished-at="2019-01-27T21:00:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestObject]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Samsung Galaxy S7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.8.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[public void com.swaglabs.Tests.LoginInvalidUser.LogininvalidUserTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogininvalidUserTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.swaglabs.Tests.LoginInvalidUser@4fe3c938]" name="tearDown" is-config="true" duration-ms="1514" started-at="2019-01-27T21:00:11Z" finished-at="2019-01-27T21:00:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LogininvalidUserTest status=SUCCESS method=LoginInvalidUser.LogininvalidUserTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.swaglabs.Tests.LoginInvalidUser@4fe3c938] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.swaglabs.Tests.LoginInvalidUser@4fe3c938]" name="tearDown" is-config="true" duration-ms="1064" started-at="2019-01-27T21:00:24Z" finished-at="2019-01-27T21:00:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LogininvalidUserTest status=SUCCESS method=LoginInvalidUser.LogininvalidUserTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.swaglabs.Tests.LoginInvalidUser@4fe3c938] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.swaglabs.Tests.LoginInvalidUser@4fe3c938]" name="tearDown" is-config="true" duration-ms="2663" started-at="2019-01-27T21:00:35Z" finished-at="2019-01-27T21:00:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LogininvalidUserTest status=SUCCESS method=LoginInvalidUser.LogininvalidUserTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.swaglabs.Tests.LoginInvalidUser@4fe3c938] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.swaglabs.Tests.LoginInvalidUser@4fe3c938]" name="tearDown" is-config="true" duration-ms="5393" started-at="2019-01-27T21:00:56Z" finished-at="2019-01-27T21:01:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LogininvalidUserTest status=SUCCESS method=LoginInvalidUser.LogininvalidUserTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.swaglabs.Tests.LoginInvalidUser@4fe3c938] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.swaglabs.Tests.LoginInvalidUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
