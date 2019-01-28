@@ -1,5 +1,6 @@
 package com.swaglabs.Tests;
 
+import org.testng.annotations.AfterMethod;
 import io.appium.java_client.android.AndroidDriver;
 import org.apache.xpath.operations.Bool;
 import org.openqa.selenium.JavascriptExecutor;
@@ -146,6 +147,7 @@ public class TestBase {
      * Closes the driver
      */
     @AfterMethod
+	
     public void tearDown(ITestResult result) throws Exception {
         String id = ((RemoteWebDriver) getAndroidDriver()).getSessionId().toString();
         Boolean status = result.isSuccess();
